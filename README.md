@@ -12,7 +12,7 @@
 - 🎥 I'll teach you how to programme apps in [Youtube](https://www.youtube.com/channel/UC7RfFxPIDUk45fXLUfND3RQ?sub_confirmation=1)
 - ✏️ Contact me by [Email](hidalgovazquezluisangel2004@gmail.com)
 
-## Best *Projects*
+<!-- ## Best *Projects*
 <table>
 <tr>
 <td width="50%">
@@ -89,7 +89,7 @@
 </td>  
 </table>                                                                                 
 </div>
-<br>
+<br> -->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
