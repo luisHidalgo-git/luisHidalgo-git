@@ -11,7 +11,6 @@
 - 📊​ Backend Developer
 - 🎥 I'll teach you how to programme apps in [Youtube](https://www.youtube.com/channel/UC7RfFxPIDUk45fXLUfND3RQ?sub_confirmation=1)
 - ✏️ Contact me by [Email](hidalgovazquezluisangel2004@gmail.com)
-<br>
 
 ## Best *Projects*
 <table>
