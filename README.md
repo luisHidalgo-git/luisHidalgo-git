@@ -13,7 +13,7 @@
 - ✏️ Contact me by [Email](hidalgovazquezluisangel2004@gmail.com)
 <br>
 
-## Proyectos *bombitas*
+## Best *Projects*
 <table>
 <tr>
 <td width="50%">
