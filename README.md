@@ -5,16 +5,12 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7RfFxPIDUk45fXLUfND3RQ?style=social)](https://www.youtube.com/channel/UC7RfFxPIDUk45fXLUfND3RQ?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/luisHidalgo-git?style=social)](https://github.com/luisHidalgo-git)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
-
-## Sobre mi
+## About me
 
 - ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+110k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- 📊​ Backend Developer
+- 🎥 I'll teach you how to programme apps in [Youtube](https://www.youtube.com/channel/UC7RfFxPIDUk45fXLUfND3RQ?sub_confirmation=1)
+- ✏️ Contact me by [Email](hidalgovazquezluisangel2004@gmail.com)
 <br>
 
 ## Proyectos *bombitas*
