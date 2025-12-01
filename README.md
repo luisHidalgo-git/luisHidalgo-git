@@ -16,18 +16,18 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Capital One Fintech</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/luisHidalgo-git/CapitalOneFintech.git" target="_blank"><img src="images/capitalOne.png" width="400" alt="Curso básico android"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/luisHidalgo-git/CapitalOneFintech.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p> Three-in-one chat, subject and assessment system for teachers and students, with reCaptcha authentication.</p>
 </div>
                                                                                       
 </td>
@@ -55,7 +55,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">Esimaldar</h3>
 <div align="center">
 <a href="https://github.com/luisHidalgo-git/Esimaldar.git" target="_blank"><img src="images/Esimaldar.jpg" width="400" alt="Curso intermedio Android"></a>
 <p>
@@ -63,7 +63,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>A classic horror game set in a school. You must enter the premises at night to retrieve the books you left behind, but you realise that the longer you stay inside, the more supernatural things happen, and you must remain alert.</p>
 </div>
                                                                                       
 </td>       
