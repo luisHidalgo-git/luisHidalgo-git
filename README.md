@@ -12,7 +12,7 @@
 - 🎥 I'll teach you how to programme apps in [Youtube](https://www.youtube.com/channel/UC7RfFxPIDUk45fXLUfND3RQ?sub_confirmation=1)
 - ✏️ Contact me by [Email](hidalgovazquezluisangel2004@gmail.com)
 
-<!-- ## Best *Projects*
+## Best *Projects*
 <table>
 <tr>
 <td width="50%">
@@ -57,9 +57,9 @@
 <td width="50%">
 <h3 align="center">Curso Android Intermedio</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/luisHidalgo-git/Esimaldar.git" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<a href="https://github.com/luisHidalgo-git/Esimaldar.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/UaR7GSNACsM" target="_blank">
@@ -71,7 +71,7 @@
                                                                                       
 </td>       
 
-<td width="50%">
+<!-- <td width="50%">
 <h3 align="center">Curso Kotlin Multiplatform</h3>
 <div align="center">
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
@@ -86,10 +86,10 @@
 <p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
 </div>
                                                                                       
-</td>  
+</td>   -->
 </table>                                                                                 
 </div>
-<br> -->
+<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
