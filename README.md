@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Luis Angel</a> 👋</h1>
+<h1 align="center">Hi, I am <a href="https://luishidalgo-git.github.io/Portfolio/">Luis Angel</a> 👋</h1>
 </div>
 <img src="images/presentaciongit.jpeg">
 
@@ -23,9 +23,6 @@
 <a href="https://github.com/luisHidalgo-git/CapitalOneFintech.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
 </p>
 <p> Three-in-one chat, subject and assessment system for teachers and students, with reCaptcha authentication.</p>
 </div>
@@ -34,19 +31,16 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Reachat</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/luisHidalgo-git/Reachat.git" target="_blank"><img src="images/reachat.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/luisHidalgo-git/Reachat.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>A payment system with an AI assistant that learns your movements and gives you suggestions on how to move and save more. </p>
 </div>                                                             
 </table>                                                                                 
 </div>
