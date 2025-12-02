@@ -16,7 +16,7 @@
 <td width="50%">
 <h3 align="center">Capital One Fintech</h3>
 <div align="center">
-<a href="https://github.com/luisHidalgo-git/CapitalOneFintech.git" target="_blank"><img src="images/capitalOne.png" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/luisHidalgo-git/CapitalOneFintech.git" target="_blank"><img src="images/capitalOne.png" width="400" alt="Capital One Fintech"></a>
 <p>
 <a href="https://github.com/luisHidalgo-git/CapitalOneFintech.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -31,7 +31,7 @@
                <br>
 <h3 align="center">Reachat</h3>
 <div align="center">                                       
-<a href="https://github.com/luisHidalgo-git/Reachat.git" target="_blank"><img src="images/reachat.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/luisHidalgo-git/Reachat.git" target="_blank"><img src="images/reachat.png" width="400" alt="Reachat"></a>
 <br>
 <p>
 <a href="https://github.com/luisHidalgo-git/Reachat.git" target="_blank">
@@ -49,7 +49,7 @@
 <td width="50%">
 <h3 align="center">Esimaldar</h3>
 <div align="center">
-<a href="https://github.com/luisHidalgo-git/Esimaldar.git" target="_blank"><img src="images/Esimaldar.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/luisHidalgo-git/Esimaldar.git" target="_blank"><img src="images/Esimaldar.jpg" width="400" alt="Esimaldar"></a>
 <p>
 <a href="https://github.com/luisHidalgo-git/Esimaldar.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
