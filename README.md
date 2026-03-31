@@ -1,8 +1,7 @@
 <div align="center">
-    <h1 align="center">
-        Hi, I am 
-        <a href="https://luishidalgo-git.github.io/Portfolio/">Luis Angel</a> 👋
-    </h1>
+  <h1>
+    Hi, I am <a href="https://luishidalgo-git.github.io/Portfolio/">Luis Angel</a> 👋
+  </h1>
 </div>
 
 <img src="images/presentaciongit.jpeg" alt="Presentación">
@@ -38,22 +37,22 @@
       </div>
     </td>
 
-    <td width="50%">
-      <h3 align="center">Reachat</h3>
-      <div align="center">
+  <td width="50%">
+    <h3 align="center">Reachat</h3>
+    <div align="center">
+      <a href="https://github.com/luisHidalgo-git/Reachat.git" target="_blank">
+        <img src="images/reachat.png" width="400" alt="Reachat">
+      </a>
+      <p>
         <a href="https://github.com/luisHidalgo-git/Reachat.git" target="_blank">
-          <img src="images/reachat.png" width="400" alt="Reachat">
+          <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
         </a>
-        <p>
-          <a href="https://github.com/luisHidalgo-git/Reachat.git" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-        </p>
-        <p>
-          A payment system with an AI assistant that learns your movements and gives you suggestions on how to move and save more.
-        </p>
-      </div>
-    </td>
+      </p>
+      <p>
+        A payment system with an AI assistant that learns your movements and gives you suggestions on how to move and save more.
+      </p>
+    </div>
+  </td>
 
   </tr>
 </table>
@@ -79,22 +78,22 @@
       </div>
     </td>
 
-    <td width="50%">
-      <h3 align="center">Bitcoin Prediction</h3>
-      <div align="center">
+  <td width="50%">
+    <h3 align="center">Bitcoin Prediction</h3>
+    <div align="center">
+      <a href="https://github.com/luisHidalgo-git/Credifiel-Bitcoin.git" target="_blank">
+        <img src="images/bitcoin.png" width="400" alt="Bitcoin Prediction">
+      </a>
+      <p>
         <a href="https://github.com/luisHidalgo-git/Credifiel-Bitcoin.git" target="_blank">
-          <img src="images/bitcoin.png" width="400" alt="Bitcoin Prediction">
+          <img src="https://img.shields.io/badge/CÓDIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
         </a>
-        <p>
-          <a href="https://github.com/luisHidalgo-git/Credifiel-Bitcoin.git" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-        </p>
-        <p>
-          The system will analyse large volumes of historical pricing data, transaction volume, and market indicators to train an algorithm.
-        </p>
-      </div>
-    </td>
+      </p>
+      <p>
+        The system will analyse large volumes of historical pricing data, transaction volume, and market indicators to train an algorithm.
+      </p>
+    </div>
+  </td>
 
   </tr>
 </table>
