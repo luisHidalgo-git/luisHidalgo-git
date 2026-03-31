@@ -53,7 +53,6 @@
       </p>
     </div>
   </td>
-
   </tr>
 </table>
 
@@ -94,7 +93,29 @@
       </p>
     </div>
   </td>
+  </tr>
+</table>
 
+<br>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">COFATECH Durango IT Tickets System</h3>
+      <div align="center">
+        <a href="https://github.com/KevinMT4/IT-support-ticket-project.git" target="_blank">
+          <img src="images/cofatech.png" width="400" alt="cofatech">
+        </a>
+        <p>
+          <a href="https://github.com/KevinMT4/IT-support-ticket-project.git" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+          The system manages the creation of tickets from administative staff in the other departments within the company to the IT department manager to keep track of the taskss performed. 
+        </p>
+      </div>
+    </td>
   </tr>
 </table>
 
